@@ -8,6 +8,7 @@ export default StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     flexDirection: "row",
+    marginTop: 8,
   },
   texto: {
     fontSize: 20,
